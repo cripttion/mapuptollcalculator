@@ -6,4 +6,23 @@
 
 3.Start the server by using command # `npm run` 
 
-![image](https://github.com/cripttion/mapuptollcalculator/assets/77504107/bf91c04e-04c3-4fc8-98ce-7b03d8c8f0bf)
+# Project Description
+Main page to the project
+![image](https://github.com/cripttion/mapuptollcalculator/assets/77504107/d998f091-5f0c-444d-a2cc-87f0e969b0c3)
+
+Here three components is used 
+1.Form ( To select the soruce and Destination)
+2. Map (To show the route all well all tolls on the route)
+3.The table which shows the details of the route and the tolls
+
+### Description about `Form component` 
+![image](https://github.com/cripttion/mapuptollcalculator/assets/77504107/08932226-d544-4a16-9f11-078003a04b18)
+Three thing is used
+1.Input for source (You can use city name as well as co-ordinates of the place i.e longitude and latitude)
+2.Input for Destination ( you can use city name as well as co-ordinates of the place i.e longitude and latitude)
+3.Submit button - after click the submit button the data call to the server for getting the details of the toll and route
+
+### Description about map
+![image](https://github.com/cripttion/mapuptollcalculator/assets/77504107/04b0cf39-adb5-496b-b1d7-aa4b113a12a7)
+![image](https://github.com/cripttion/mapuptollcalculator/assets/77504107/13a567b8-b77b-45a1-ab4c-c00ec456b4f4)
+on clicking the location we can able to see the details about the Toll and in red line you can able to see the route.
